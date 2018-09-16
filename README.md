@@ -15,10 +15,10 @@ Aspida changes the hosts file directly so you can completely shut out social med
 
 ## Installation
 
-- [Windows]()
+- [Windows](https://github.com/shufo/aspida/releases/download/0.1.0/Aspida.Setup.0.1.0.exe.zip)
 - Linux
-  - [Debian](), [Ubuntu]()
-  - [RedHat](), [CentOS]()
+  - [Debian](https://github.com/shufo/aspida/releases/download/0.1.0/aspida_0.1.0_amd64.deb.zip), [Ubuntu](https://github.com/shufo/aspida/releases/download/0.1.0/aspida_0.1.0_amd64.deb.zip)
+  - [RedHat](https://github.com/shufo/aspida/releases/download/0.1.0/aspida-0.1.0.x86_64.rpm.zip), [CentOS](https://github.com/shufo/aspida/releases/download/0.1.0/aspida-0.1.0.x86_64.rpm.zip)
 - Mac (will be supported)
 
 ## Usage
