@@ -2,7 +2,7 @@
 
 A social media detox app built with Electron and Vue.js in TypeScript.
 
-![image]
+![description](https://github.com/shufo/aspida/wiki/assets/description.gif)
 
 Currently following platforms are supported
 
